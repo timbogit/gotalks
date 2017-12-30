@@ -1,0 +1,23 @@
+Intro to Go
+30 December 2017
+Tags: golang, intro, go, talk
+
+Tim Schmelmer
+Go afficionado
+tim.schmelmer@gmail.com
+http://www.timschmelmer.com/
+@twitty_tim
+
+* Things covered
+.link http://www.golangbootcamp.com/book Go Bootcamp
+- Get Setup
+- The Basics
+- Types
+- Collection Types
+- Control flow
+- Methods
+- Interfaces
+- Concurrency
+- Get Your Feet Wet
+- Tips and Tricks
+- Exercise: GoDoc API
