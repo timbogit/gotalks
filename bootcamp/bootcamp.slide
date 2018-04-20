@@ -57,5 +57,5 @@ http://www.timschmelmer.com/
   byte        alias for uint8
   rune        alias for int32 (represents a Unicode code point)
 
-* Example
+* Basic Types - Example
 .play builtInBasic.go
